@@ -1,4 +1,4 @@
-package com.shamel.shame_delivery
+package com.shamel.deliveryman
 
 import android.content.Intent
 import android.os.Bundle

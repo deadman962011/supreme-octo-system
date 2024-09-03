@@ -1,4 +1,4 @@
-package com.shamel.shame_delivery
+package com.shamel.deliveryman
 
 import android.app.Notification
 import android.app.NotificationChannel

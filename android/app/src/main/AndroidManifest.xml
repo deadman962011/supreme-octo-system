@@ -77,7 +77,7 @@
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <service
-            android:name="com.shamel.shame_delivery.BackgroundService"
+            android:name="com.shamel.deliveryman.BackgroundService"
             android:enabled="true"
             android:exported="false" />
         <meta-data
