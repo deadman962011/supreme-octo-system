@@ -5,7 +5,7 @@ class AppConstants {
   static const String appName = 'Shamel Delivery Man App';
   static const double appVersion = 2.9; ///Flutter sdk 3.22.3
 
-  static const String baseUrl = 'https://shamel.up.railway.app';
+  static const String baseUrl = 'https://www.shamel.website';
 
   static const String configUri = '/api/v1/config';
   static const String forgetPasswordUri = '/api/v1/auth/delivery-man/forgot-password';
