@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "57102188028",
-    "project_id": "shamel-6b367",
-    "storage_bucket": "shamel-6b367.appspot.com"
+    "project_number": "684951274231",
+    "project_id": "shamelapp-fe234",
+    "storage_bucket": "shamelapp-fe234.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:57102188028:android:6b4bfe84335c5115234679",
+        "mobilesdk_app_id": "1:684951274231:android:3c168efa33e99386d3c9f2",
         "android_client_info": {
           "package_name": "com.shamel.deliveryman"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDpF2bYOJho4ROLTaI_hxlw-VW3FKsnmwg"
+          "current_key": "AIzaSyDhpO46tP5J9k-tr_SQh573bA2FACpC2L0"
         }
       ],
       "services": {
@@ -26,7 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:57102188028:android:94d58e6485177f92234679",
+        "mobilesdk_app_id": "1:684951274231:android:bae09b62284a5b7cd3c9f2",
         "android_client_info": {
           "package_name": "com.shamel.shamel_user"
         }
@@ -34,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDpF2bYOJho4ROLTaI_hxlw-VW3FKsnmwg"
+          "current_key": "AIzaSyDhpO46tP5J9k-tr_SQh573bA2FACpC2L0"
         }
       ],
       "services": {
@@ -45,7 +45,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:57102188028:android:3bee57e6fa77dfea234679",
+        "mobilesdk_app_id": "1:684951274231:android:0be1bd8ee7c8313ad3c9f2",
         "android_client_info": {
           "package_name": "com.shamel.store"
         }
@@ -53,7 +53,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDpF2bYOJho4ROLTaI_hxlw-VW3FKsnmwg"
+          "current_key": "AIzaSyDhpO46tP5J9k-tr_SQh573bA2FACpC2L0"
         }
       ],
       "services": {
