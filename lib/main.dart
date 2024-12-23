@@ -32,10 +32,10 @@ Future<void> main() async {
   if(GetPlatform.isAndroid) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyBi-3fRD93sXqpfaFL-jz0HO5DliAqZTx0",
-        appId: "1:57102188028:android:94d58e6485177f92234679",
-        messagingSenderId: "57102188028",
-        projectId: "shamel-6b367",
+        apiKey: "AIzaSyD3Hu4m39nud6rpiosYZGw-TWkAYCmQJPg",
+        appId: "1:684951274231:android:3c168efa33e99386d3c9f2",
+        messagingSenderId: "684951274231",
+        projectId: "shamelapp-fe234",
       ),
     );
   }else {
